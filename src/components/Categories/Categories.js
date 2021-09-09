@@ -56,7 +56,7 @@ const Categories = () => {
                     </li>
                     <li>
                       <a href="#">
-                        Alexa
+                        user
                         <KeyboardArrowRightIcon className="arrow-icon" />
                       </a>
                     </li>
