@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone.git/static/css/main.63bcb523.chunk.css",
+    "main.js": "/Amazon-clone.git/static/js/main.bdc541f9.chunk.js",
+    "main.js.map": "/Amazon-clone.git/static/js/main.bdc541f9.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone.git/static/js/runtime-main.9066721d.js",
+    "runtime-main.js.map": "/Amazon-clone.git/static/js/runtime-main.9066721d.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/Amazon-clone.git/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.87b8fc4a.chunk.js": "/Amazon-clone.git/static/js/2.87b8fc4a.chunk.js",
+    "static/js/2.87b8fc4a.chunk.js.map": "/Amazon-clone.git/static/js/2.87b8fc4a.chunk.js.map",
+    "index.html": "/Amazon-clone.git/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/Amazon-clone.git/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.63bcb523.chunk.css.map": "/Amazon-clone.git/static/css/main.63bcb523.chunk.css.map",
+    "static/js/2.87b8fc4a.chunk.js.LICENSE.txt": "/Amazon-clone.git/static/js/2.87b8fc4a.chunk.js.LICENSE.txt",
+    "static/media/alexa.7d55c40d.jpg": "/Amazon-clone.git/static/media/alexa.7d55c40d.jpg",
+    "static/media/amazon-black.2c372da7.png": "/Amazon-clone.git/static/media/amazon-black.2c372da7.png",
+    "static/media/amazonFas.7d4b8080.jpg": "/Amazon-clone.git/static/media/amazonFas.7d4b8080.jpg",
+    "static/media/furniture.ed23e5aa.jpg": "/Amazon-clone.git/static/media/furniture.ed23e5aa.jpg",
+    "static/media/laptop.17b5790f.jpg": "/Amazon-clone.git/static/media/laptop.17b5790f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9066721d.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.87b8fc4a.chunk.js",
+    "static/css/main.63bcb523.chunk.css",
+    "static/js/main.bdc541f9.chunk.js"
+  ]
+}
